@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FarmerSupportApp</string>
+    <string-array name="soil">
+        <item>Choose Soil Type</item>
+        <item>Alkaline</item>
+        <item>Chalky</item>
+        <item>Clay</item>
+    </string-array>
+</resources>

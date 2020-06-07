@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558863068218",
+    "firebase_url": "https://framersupoort.firebaseio.com",
+    "project_id": "framersupoort",
+    "storage_bucket": "framersupoort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558863068218:android:6361475770692b56de5903",
+        "android_client_info": {
+          "package_name": "com.example.farmersupportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558863068218-6lrtnlj6cmerr15bdgkva6enno6qh296.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmersupportapp",
+            "certificate_hash": "244a8ad6f881d5e840c487d6d607e7c4fbac0ddc"
+          }
+        },
+        {
+          "client_id": "558863068218-vtvpbivukb7thae61delefhr1bk72pou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUoNt17C5zHY8-CJ6d9eVRFAvTt8yA7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558863068218-vtvpbivukb7thae61delefhr1bk72pou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

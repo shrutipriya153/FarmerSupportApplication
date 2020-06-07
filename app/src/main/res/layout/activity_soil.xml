@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".soil">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="67dp"
+        android:src="@drawable/upper"
+        android:scaleType="fitXY"
+        />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:src="@drawable/next"
+        android:id="@+id/prev1"
+        android:scaleType="fitXY"
+        android:layout_marginTop="14dp"
+        android:layout_marginLeft="12dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thanks! For Using it\n
+Please Visit Soon!!"
+        android:layout_marginLeft="28dp"
+        android:textSize="18dp"
+        android:layout_marginTop="88dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:layout_width="322dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/yesno"
+        android:padding="10dp"
+        android:paddingLeft="10dp"
+        android:textSize="20sp"
+        android:text="KNOW ABOUT THE SOIL\n
+The current soil moisture level is\n
+                      846.13
+"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:background="@drawable/textback"
+        android:layout_marginTop="180dp"
+        android:layout_marginLeft="19dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="161dp"
+        android:src="@drawable/back"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:src="@drawable/trans"
+        android:scaleType="fitXY"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>
